@@ -4,7 +4,7 @@ This project demonstrates the implementation of a parallax effect using HTML and
 
 ## Purpose
 
-The purpose of this project is to showcase the skills and knowledge gained during a [web development bootcamp](https://https://github.com/abhiXsliet/webDevelopment-Bootcamp) The parallax effect has been created as a way to apply the concepts learned in the bootcamp, utilizing the latest HTML and CSS techniques.
+The purpose of this project is to showcase the skills and knowledge gained during a [web development bootcamp](https://github.com/abhiXsliet/webDevelopment-Bootcamp) The parallax effect has been created as a way to apply the concepts learned in the bootcamp, utilizing the latest HTML and CSS techniques.
 
 ## Technologies Used
 
